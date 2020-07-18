@@ -1,0 +1,181 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>4AC05A5F-DFF1-4E54-A3B6-FB72371506F0</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>4AC05A5F-DFF1-4E54-A3B6-FB72371506F0.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tippy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tippy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Tippy</string>
+			<key>timeStartedRecording</key>
+			<real>616672743.13870597</real>
+			<key>timeStoppedRecording</key>
+			<real>616672744.37045395</real>
+			<key>title</key>
+			<string>Build Tippy</string>
+			<key>uniqueIdentifier</key>
+			<string>4AC05A5F-DFF1-4E54-A3B6-FB72371506F0</string>
+		</dict>
+		<key>8959DB9E-7F19-4B03-94E6-7F8BA1041363</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8959DB9E-7F19-4B03-94E6-7F8BA1041363.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tippy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tippy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Tippy</string>
+			<key>timeStartedRecording</key>
+			<real>616672931.24277699</real>
+			<key>timeStoppedRecording</key>
+			<real>616672931.27930403</real>
+			<key>title</key>
+			<string>Build Tippy</string>
+			<key>uniqueIdentifier</key>
+			<string>8959DB9E-7F19-4B03-94E6-7F8BA1041363</string>
+		</dict>
+		<key>8E388F8A-DBBE-4446-90C1-851AE29D27D1</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>8E388F8A-DBBE-4446-90C1-851AE29D27D1.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tippy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tippy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Tippy</string>
+			<key>timeStartedRecording</key>
+			<real>616672829.65057003</real>
+			<key>timeStoppedRecording</key>
+			<real>616672837.66647005</real>
+			<key>title</key>
+			<string>Build Tippy</string>
+			<key>uniqueIdentifier</key>
+			<string>8E388F8A-DBBE-4446-90C1-851AE29D27D1</string>
+		</dict>
+		<key>B2C3BFD4-C031-486A-9B4F-26C1D0BFB925</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>B2C3BFD4-C031-486A-9B4F-26C1D0BFB925.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tippy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tippy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Tippy</string>
+			<key>timeStartedRecording</key>
+			<real>616672478.17455995</real>
+			<key>timeStoppedRecording</key>
+			<real>616672478.77457404</real>
+			<key>title</key>
+			<string>Build Tippy</string>
+			<key>uniqueIdentifier</key>
+			<string>B2C3BFD4-C031-486A-9B4F-26C1D0BFB925</string>
+		</dict>
+		<key>FB93CCBB-DD75-43B8-8DC2-81772E0399BF</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.BuildLog</string>
+			<key>fileName</key>
+			<string>FB93CCBB-DD75-43B8-8DC2-81772E0399BF.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>schemeIdentifier-containerName</key>
+			<string>Tippy project</string>
+			<key>schemeIdentifier-schemeName</key>
+			<string>Tippy</string>
+			<key>schemeIdentifier-sharedScheme</key>
+			<integer>1</integer>
+			<key>signature</key>
+			<string>Build Tippy</string>
+			<key>timeStartedRecording</key>
+			<real>616672788.72047603</real>
+			<key>timeStoppedRecording</key>
+			<real>616672791.324211</real>
+			<key>title</key>
+			<string>Build Tippy</string>
+			<key>uniqueIdentifier</key>
+			<string>FB93CCBB-DD75-43B8-8DC2-81772E0399BF</string>
+		</dict>
+	</dict>
+</dict>
+</plist>

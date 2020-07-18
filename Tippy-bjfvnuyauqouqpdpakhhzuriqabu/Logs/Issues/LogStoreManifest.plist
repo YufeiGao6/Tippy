@@ -1,0 +1,41 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<!DOCTYPE plist PUBLIC "-//Apple//DTD PLIST 1.0//EN" "http://www.apple.com/DTDs/PropertyList-1.0.dtd">
+<plist version="1.0">
+<dict>
+	<key>logFormatVersion</key>
+	<integer>10</integer>
+	<key>logs</key>
+	<dict>
+		<key>F2B33341-D072-4E3B-92F7-F9D02A62BB12</key>
+		<dict>
+			<key>className</key>
+			<string>IDEActivityLogMajorGroupSection</string>
+			<key>documentTypeString</key>
+			<string>&lt;nil&gt;</string>
+			<key>domainType</key>
+			<string>Xcode.IDEActivityLogDomainType.target.product-type.application</string>
+			<key>fileName</key>
+			<string>F2B33341-D072-4E3B-92F7-F9D02A62BB12.xcactivitylog</string>
+			<key>hasPrimaryLog</key>
+			<true/>
+			<key>primaryObservable</key>
+			<dict>
+				<key>highLevelStatus</key>
+				<string>E</string>
+			</dict>
+			<key>signature</key>
+			<string>Tippy-bjfvnuyauqouqpdpakhhzuriqabu</string>
+			<key>timeStartedRecording</key>
+			<real>616672931.25649595</real>
+			<key>timeStoppedRecording</key>
+			<real>616672931.27665102</real>
+			<key>title</key>
+			<string>Build target Tippy</string>
+			<key>uniqueIdentifier</key>
+			<string>F2B33341-D072-4E3B-92F7-F9D02A62BB12</string>
+		</dict>
+	</dict>
+	<key>preserveOldLogs</key>
+	<true/>
+</dict>
+</plist>

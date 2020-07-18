@@ -1,0 +1,7 @@
+version: "Apple Swift version 5.1 (swiftlang-1100.0.270.13 clang-1100.0.33.7)"
+options: "895bf49c6aa86cbfce9a39fea6a08329"
+build_time: [1594980029, 779359000]
+inputs:
+  "/Users/yufeigao/Documents/IOS/Tippy/Tippy/ViewController.swift": [1594960849, 981279336]
+  "/Users/yufeigao/Documents/IOS/Tippy/Tippy/AppDelegate.swift": [1594959966, 654975792]
+  "/Users/yufeigao/Documents/IOS/Tippy/Tippy/SceneDelegate.swift": [1594959966, 658149020]
