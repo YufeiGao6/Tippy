@@ -39,11 +39,16 @@ class ViewController: UIViewController {
         tipControl.setTitle(p2, forSegmentAt: 1)
         tipControl.setTitle(p3, forSegmentAt: 2)
         tipControl.selectedSegmentIndex = (defaults.integer(forKey: "option"))
+        billField.becomeFirstResponder()
     }
     
-    @IBAction func onTap(_ sender: Any) {
-        view.endEditing(true)
-    }
+//    @IBAction func onTap(_ sender: Any) {
+//        if(billField.isFirstResponder){
+//            view.endEditing(true)
+//        }else{
+//            billField.becomeFirstResponder()
+//        }
+//    }
     
     @IBAction func calculateTip(_ sender: Any) {
         // Get the bill amount
@@ -63,7 +68,6 @@ class ViewController: UIViewController {
     }
     
     @IBAction func percentageChanged(_ sender: Any) {
-        view.endEditing(true)
         if(tipControl.selectedSegmentIndex != 3){
             calculateTip(self)
         }else{
@@ -82,7 +86,6 @@ class ViewController: UIViewController {
         percentTextField = textField
         percentTextField?.placeholder = "0%"
         percentTextField?.keyboardType = UIKeyboardType.decimalPad
-        
     }
     
     func okHandler(alert:UIAlertAction!){
@@ -90,11 +93,16 @@ class ViewController: UIViewController {
         let bill = Double(billStr) ?? 0
         percentage = 0.01*(Double((percentTextField?.text)!) ?? 0)
         percentLabel.text = String(format: "%.1f%%", percentage*100)
+        UIView.animate(withDuration: 1.5) {
+            self.percentLabel.alpha = 1
+            self.percentLabel.alpha = 0
+        }
         let tip = bill * 0.01*(Double((percentTextField?.text)!) ?? 0)
         let total = bill + tip
         // Update the tip and total labels
         tipLabel.text = String(format: "$%.2f", tip)
         totalLabel.text = String(format: "$%.2f", total)
+        billField.becomeFirstResponder()
     }
     
 }

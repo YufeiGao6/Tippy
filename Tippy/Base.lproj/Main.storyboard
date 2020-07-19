@@ -57,7 +57,7 @@
                                     <action selector="percentageChanged:" destination="BYZ-38-t0r" eventType="valueChanged" id="sML-0m-88b"/>
                                 </connections>
                             </segmentedControl>
-                            <label opaque="NO" userInteractionEnabled="NO" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LSR-Au-itq">
+                            <label opaque="NO" userInteractionEnabled="NO" alpha="0.0" contentMode="left" horizontalHuggingPriority="251" verticalHuggingPriority="251" text="" textAlignment="natural" lineBreakMode="tailTruncation" baselineAdjustment="alignBaselines" adjustsFontSizeToFit="NO" translatesAutoresizingMaskIntoConstraints="NO" id="LSR-Au-itq">
                                 <rect key="frame" x="306" y="302" width="55" height="20"/>
                                 <constraints>
                                     <constraint firstAttribute="height" constant="20" id="UoW-rT-9Sb"/>
@@ -140,9 +140,6 @@
                             <constraint firstItem="XtG-pY-vbg" firstAttribute="centerX" secondItem="LSR-Au-itq" secondAttribute="centerX" id="xFL-ma-OXc"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="j8A-11-yrv"/>
-                        <connections>
-                            <outletCollection property="gestureRecognizers" destination="mml-zo-Bvm" appends="YES" id="gBw-Vg-FBe"/>
-                        </connections>
                     </view>
                     <navigationItem key="navigationItem" title="Tip Calculator" id="VLt-8R-sy1">
                         <barButtonItem key="rightBarButtonItem" title="Settings" id="4yI-dz-whX">
@@ -165,11 +162,6 @@
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="dkx-z0-nzr" sceneMemberID="firstResponder"/>
-                <tapGestureRecognizer id="mml-zo-Bvm">
-                    <connections>
-                        <action selector="onTap:" destination="BYZ-38-t0r" id="7SL-t3-z5G"/>
-                    </connections>
-                </tapGestureRecognizer>
             </objects>
             <point key="canvasLocation" x="1042.0289855072465" y="120.53571428571428"/>
         </scene>
@@ -304,9 +296,6 @@
                             <constraint firstItem="28w-tx-GkL" firstAttribute="trailing" secondItem="AAa-FP-EuU" secondAttribute="trailing" id="yav-mH-HdF"/>
                         </constraints>
                         <viewLayoutGuide key="safeArea" id="n3P-vW-1nJ"/>
-                        <connections>
-                            <outletCollection property="gestureRecognizers" destination="RQA-Ge-ixi" appends="YES" id="Ibu-6l-7kW"/>
-                        </connections>
                     </view>
                     <navigationItem key="navigationItem" id="7FY-ov-wE0"/>
                     <connections>
@@ -317,11 +306,6 @@
                     </connections>
                 </viewController>
                 <placeholder placeholderIdentifier="IBFirstResponder" id="cbs-S8-xmn" userLabel="First Responder" customClass="UIResponder" sceneMemberID="firstResponder"/>
-                <tapGestureRecognizer id="RQA-Ge-ixi">
-                    <connections>
-                        <action selector="onTap:" destination="Xte-Ib-McX" id="bkd-Ut-x7Q"/>
-                    </connections>
-                </tapGestureRecognizer>
             </objects>
             <point key="canvasLocation" x="1866.6666666666667" y="120.53571428571428"/>
         </scene>

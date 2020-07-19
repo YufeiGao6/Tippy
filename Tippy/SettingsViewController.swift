@@ -46,9 +46,9 @@ class SettingsViewController: UIViewController {
         defaults.synchronize()
     }
     
-    @IBAction func onTap(_ sender: Any) {
-        view.endEditing(true)
-    }
+//    @IBAction func onTap(_ sender: Any) {
+//        view.endEditing(true)
+//    }
     /*
     // MARK: - Navigation
 
