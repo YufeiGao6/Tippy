@@ -25,11 +25,12 @@ The following **additional** features are implemented:
 
 Here's a walkthrough of implemented user stories:
 
-<img src='https://github.com/YufeiGao6/Tippy/blob/master/demo.gif?raw=true' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+<img src='https://github.com/YufeiGao6/Tippy/blob/master/demo.gif?raw=true' title='Video Walkthrough' width='300' alt='Video Walkthrough' />
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+I wanted to build some fancy functionalities in the text field (having a uneditable '$' sign in the textfield) and failed.
+Another challenging thing is to design a pretty UI.
 
 ## License
 
